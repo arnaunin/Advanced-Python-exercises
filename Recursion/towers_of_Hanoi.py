@@ -12,7 +12,7 @@ def towers_of_Hanoi(n, origin, destination, aux):
         # Move the n-1 disks from aux to destination using origin as a helper
         towers_of_Hanoi(n-1, aux, destination, origin)
 
-# Start the Towers of Hanoi solution with the specified number of disks hola
+# Start the Towers of Hanoi solution with the specified number of disks
 n = 3
 towers_of_Hanoi(n, 'A', 'B', 'C')
     
