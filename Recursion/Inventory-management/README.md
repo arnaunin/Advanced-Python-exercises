@@ -18,24 +18,6 @@ The inventory is stored in a JSON file named `inventory.json`. When the program 
 
 To run the script, ensure you have Python installed, and that your working directory contains the `inventory.json` file.
 
-### Example
-
-Here’s an example of how to use the script:
-
-What task do you want to do? 
-1. Search product 
-2. Add items 
-3. Remove items 
-4. Delete product 
-5. Show the inventory 
-2
-What is the code of the product you want to add items?
-101
-What amount of items do you want to add? 
-50
-
-Product quantity with code 101 updated to 50 items.
-
 ### Note
 This is a slightly more extensive implementation than what is requested in the PDF instructions. Although it is more extensive, it is still a basic implementation of an inventory management system, and many functionalities could be added. Any requests for additional features are welcome and appreciated
 
