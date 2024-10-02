@@ -13,7 +13,7 @@ The program shows the necessary steps to move `n` disks from an origin tower to 
 - If there is only one disk, it moves it directly from the origin to the destination.
 - If there are more than one disk, it first moves the top `n-1` disks to the auxiliary tower, then moves the largest disk to the destination, and finally moves the `n-1` disks from the auxiliary tower to the destination.
 
-**Output**
+## Output
 ![Output](images/Output_towers_of_Hanoi.png)
 
 ## Contributing
