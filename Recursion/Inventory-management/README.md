@@ -28,12 +28,11 @@ What task do you want to do?
 3. Remove items 
 4. Delete product 
 5. Show the inventory 
-> 2
-
-What is the code of the product you want to add items? 
-> 101
+2
+What is the code of the product you want to add items?
+101
 What amount of items do you want to add? 
-> 50
+50
 
 Product quantity with code 101 updated to 50 items.
 
