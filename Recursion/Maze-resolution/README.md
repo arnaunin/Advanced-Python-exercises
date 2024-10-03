@@ -25,6 +25,16 @@ The `maze.json` file should be structured as follows:
     [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
 ]
 
+```
+### Output
 
+![Output](images/maze_solution.png)
 
+## Contributing
+Contributions are welcome! Please follow these steps:
+1. **Fork the Repository**
+2. **Create a Feature Branch (`git checkout -b feature-branch`)**
+3. **Commit Your Changes (`git commit -m 'Add some feature'`)**
+4. **Push to the Branch (`git push origin feature-branch`)**
+5. **Open a Pull Request**
 
