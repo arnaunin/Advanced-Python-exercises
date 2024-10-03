@@ -14,6 +14,29 @@ This Python script is a basic **Inventory Management System** that interacts wit
 
 The inventory is stored in a JSON file named `inventory.json`. When the program starts, it reads the data from this file and stores it in memory. After every task (such as adding or removing items), the inventory is updated and saved back to the JSON file.
 
+### Example JSON Format
+The `inventory.json` file should be structured as follows:
+```json
+[
+    {
+        "code": 1009,
+        "quantity": 12
+    },
+    {
+        "code": 1008,
+        "quantity": 45
+    },
+    {
+        "code": 1007,
+        "quantity": 56
+    },
+    {
+        "code": 1006,
+        "quantity": 22
+    }
+]
+```
+
 ## Running the Program
 
 To run the script, ensure you have Python installed, and that your working directory contains the `inventory.json` file.
