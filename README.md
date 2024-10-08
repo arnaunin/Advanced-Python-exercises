@@ -25,9 +25,6 @@ This repository is designed for those looking to improve their knowledge of adva
 2. Memoization Exercise in Shipping Costs
 3. Memoization Exercise in Text Analysis
 
-## Install and execution
-To run the solutions, you just need to have the corresponding programming language installed. In the files for each exercise, you'll find specific instructions if it's necessary to install any libraries or dependencies.
-
 ## Contributing
 Contributions are welcome! Please follow these steps:
 1. **Fork the Repository**
