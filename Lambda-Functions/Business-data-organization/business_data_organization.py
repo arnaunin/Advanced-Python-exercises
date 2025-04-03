@@ -3,7 +3,7 @@ import json
 
 # Read the list of employees in the json file
 with open("employees.json", 'r') as employees_json:
-    # Saave that list in a variable
+    # Save that list in a variable
     employees = json.load(employees_json)
 
 # Function to sort by performance (from highest to lowest) and age (from lowest to highest) the employees

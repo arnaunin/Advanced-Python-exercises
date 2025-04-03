@@ -1,0 +1,302 @@
+[
+    {
+        "product": "Smartphone",
+        "date": "2025-04-01",
+        "amount": 599.99,
+        "location": "Madrid"
+    },
+    {
+        "product": "Laptop",
+        "date": "2025-03-28",
+        "amount": 1200.50,
+        "location": "Barcelona"
+    },
+    {
+        "product": "Headphones",
+        "date": "2025-04-01",
+        "amount": 150.75,
+        "location": "Sevilla"
+    },
+    {
+        "product": "Smartwatch",
+        "date": "2025-03-30",
+        "amount": 250.00,
+        "location": "Valencia"
+    },
+    {
+        "product": "Digital Camera",
+        "date": "2025-04-02",
+        "amount": 450.00,
+        "location": "Bilbao"
+    },
+    {
+        "product": "Mechanical Keyboard",
+        "date": "2025-04-03",
+        "amount": 120.00,
+        "location": "Madrid"
+    },
+    {
+        "product": "4K Monitor",
+        "date": "2025-04-01",
+        "amount": 300.00,
+        "location": "Zaragoza"
+    },
+    {
+        "product": "Digital Camera",
+        "date": "2025-04-01",
+        "amount": 500.00,
+        "location": "Madrid"
+    },
+    {
+        "product": "Smartphone",
+        "date": "2025-04-03",
+        "amount": 699.00,
+        "location": "Madrid"
+    },
+    {
+        "product": "Laptop",
+        "date": "2025-04-02",
+        "amount": 1100.99,
+        "location": "Barcelona"
+    },
+    {
+        "product": "Tablet",
+        "date": "2025-01-15",
+        "amount": 350.00,
+        "location": "Madrid"
+    },
+    {
+        "product": "Smartwatch",
+        "date": "2025-11-22",
+        "amount": 220.00,
+        "location": "Valencia"
+    },
+    {
+        "product": "Wireless Mouse",
+        "date": "2025-07-07",
+        "amount": 30.00,
+        "location": "Sevilla"
+    },
+    {
+        "product": "Bluetooth Speaker",
+        "date": "2025-09-18",
+        "amount": 80.00,
+        "location": "Bilbao"
+    },
+    {
+        "product": "Laptop",
+        "date": "2025-06-10",
+        "amount": 950.00,
+        "location": "Barcelona"
+    },
+    {
+        "product": "Smartphone",
+        "date": "2025-12-05",
+        "amount": 699.99,
+        "location": "Madrid"
+    },
+    {
+        "product": "Smartwatch",
+        "date": "2025-10-10",
+        "amount": 180.00,
+        "location": "Zaragoza"
+    },
+    {
+        "product": "Camera Lens",
+        "date": "2025-05-17",
+        "amount": 400.00,
+        "location": "Sevilla"
+    },
+    {
+        "product": "Desk Lamp",
+        "date": "2025-08-05",
+        "amount": 45.00,
+        "location": "Valencia"
+    },
+    {
+        "product": "External Hard Drive",
+        "date": "2025-03-22",
+        "amount": 120.00,
+        "location": "Madrid"
+    },
+    {
+        "product": "Smartphone",
+        "date": "2025-02-20",
+        "amount": 699.00,
+        "location": "Barcelona"
+    },
+    {
+        "product": "Wireless Charger",
+        "date": "2025-06-20",
+        "amount": 40.00,
+        "location": "Madrid"
+    },
+    {
+        "product": "Electric Scooter",
+        "date": "2025-08-22",
+        "amount": 350.00,
+        "location": "Sevilla"
+    },
+    {
+        "product": "Bluetooth Headset",
+        "date": "2025-01-30",
+        "amount": 120.00,
+        "location": "Zaragoza"
+    },
+    {
+        "product": "Smartphone",
+        "date": "2025-07-15",
+        "amount": 750.00,
+        "location": "Madrid"
+    },
+    {
+        "product": "Laptop",
+        "date": "2025-11-12",
+        "amount": 950.00,
+        "location": "Valencia"
+    },
+    {
+        "product": "Gaming Console",
+        "date": "2025-05-25",
+        "amount": 450.00,
+        "location": "Bilbao"
+    },
+    {
+        "product": "Bluetooth Earbuds",
+        "date": "2025-02-02",
+        "amount": 80.00,
+        "location": "Barcelona"
+    },
+    {
+        "product": "Smartwatch",
+        "date": "2025-08-15",
+        "amount": 180.00,
+        "location": "Madrid"
+    },
+    {
+        "product": "Fitness Tracker",
+        "date": "2025-10-30",
+        "amount": 100.00,
+        "location": "Sevilla"
+    },
+    {
+        "product": "Electric Toothbrush",
+        "date": "2025-09-03",
+        "amount": 60.00,
+        "location": "Zaragoza"
+    },
+    {
+        "product": "Drone",
+        "date": "2025-07-19",
+        "amount": 550.00,
+        "location": "Madrid"
+    },
+    {
+        "product": "Smartphone",
+        "date": "2025-04-12",
+        "amount": 699.00,
+        "location": "Barcelona"
+    },
+    {
+        "product": "Projector",
+        "date": "2025-10-05",
+        "amount": 400.00,
+        "location": "Bilbao"
+    },
+    {
+        "product": "Laptop",
+        "date": "2025-12-12",
+        "amount": 1250.00,
+        "location": "Madrid"
+    },
+    {
+        "product": "Smartphone",
+        "date": "2025-06-25",
+        "amount": 650.00,
+        "location": "Valencia"
+    },
+    {
+        "product": "Camera",
+        "date": "2025-03-15",
+        "amount": 350.00,
+        "location": "Sevilla"
+    },
+    {
+        "product": "Monitor",
+        "date": "2025-08-28",
+        "amount": 280.00,
+        "location": "Zaragoza"
+    },
+    {
+        "product": "Smartwatch",
+        "date": "2025-11-18",
+        "amount": 210.00,
+        "location": "Barcelona"
+    },
+    {
+        "product": "Fitness Tracker",
+        "date": "2025-09-22",
+        "amount": 120.00,
+        "location": "Madrid"
+    },
+    {
+        "product": "Smartphone",
+        "date": "2025-12-10",
+        "amount": 720.00,
+        "location": "Sevilla"
+    },
+    {
+        "product": "Smartphone",
+        "date": "2025-11-05",
+        "amount": 660.00,
+        "location": "Barcelona"
+    },
+    {
+        "product": "Smartwatch",
+        "date": "2025-01-19",
+        "amount": 200.00,
+        "location": "Zaragoza"
+    },
+    {
+        "product": "Drone",
+        "date": "2025-04-15",
+        "amount": 599.99,
+        "location": "Madrid"
+    },
+    {
+        "product": "Gaming Laptop",
+        "date": "2025-10-28",
+        "amount": 1800.00,
+        "location": "Barcelona"
+    },
+    {
+        "product": "Smartphone",
+        "date": "2025-09-09",
+        "amount": 749.00,
+        "location": "Valencia"
+    },
+    {
+        "product": "Smartwatch",
+        "date": "2025-12-01",
+        "amount": 220.00,
+        "location": "Sevilla"
+    },
+    {
+        "product": "4K Television",
+        "date": "2025-06-15",
+        "amount": 1200.00,
+        "location": "Madrid"
+    },
+    {
+        "product": "Wireless Charger",
+        "date": "2025-05-09",
+        "amount": 40.00,
+        "location": "Bilbao"
+    },
+    {
+        "product": "Headphones",
+        "date": "2025-02-15",
+        "amount": 180.00,
+        "location": "Madrid"
+    }
+]
