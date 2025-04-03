@@ -26,9 +26,9 @@ The `names.json` file should be structured as follows:
     "García, Alejandro", 
     "Fernández, Beatriz", 
     "Rodríguez, Carlos", 
-    "López, Diana"
+    "López, Diana",
+   ...
 ]
-...
 ```
 
 ## Example output
