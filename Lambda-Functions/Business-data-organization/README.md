@@ -39,10 +39,6 @@ The `inventory.json` file should be structured as follows:
 ]
 ```
 
-## Running the Program
-
-To run the script, ensure you have Python installed, and that your working directory contains the `inventory.json` file.
-
 ## Contributing
 Contributions are welcome! Please follow these steps:
 1. **Fork the Repository**
