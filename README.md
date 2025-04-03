@@ -13,7 +13,7 @@ This repository is designed for those looking to improve their knowledge of adva
 ### Lambda functions
 1. [Business Data Organization Problem](Lambda-Functions/Business-data-organization)
 2. [Sales Data Analysis Problem](Lambda-Functions/Sales-data-analysis)
-3. Name Transformation and Filtering Problem
+3. [Name Transformation and Filtering Problem](Lambda-Functions/Name-transformation-and-filtering)
 
 ### Decorators
 1. Execution Time Logger
