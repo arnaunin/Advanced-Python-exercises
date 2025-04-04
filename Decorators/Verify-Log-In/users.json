@@ -1,0 +1,27 @@
+{
+    "user1": {
+        "password": "password123",
+        "full_name": "John Smith",
+        "email": "john@example.com"
+    },
+    "user2": {
+        "password": "securepass456",
+        "full_name": "Emily Johnson",
+        "email": "emilyj@example.com"
+    },
+    "user3": {
+        "password": "mypassword789",
+        "full_name": "Michael Brown",
+        "email": "michaelb@example.com"
+    },
+    "user4": {
+        "password": "adminaccess2024",
+        "full_name": "Sarah Davis",
+        "email": "sarah.d@example.com"
+    },
+    "user5": {
+        "password": "helloWorld321",
+        "full_name": "David Wilson",
+        "email": "david.w@example.com"
+    }
+}
