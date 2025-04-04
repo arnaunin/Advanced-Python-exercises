@@ -17,8 +17,8 @@ This repository is designed for those looking to improve their knowledge of adva
 
 ### Decorators
 1. [Execution Time Logger](Decorators/Logger)
-2. Access Control Decorator
-3. Login Verification with Decorator
+2. [Access Control Decorator](Decorators/Access-control)
+3. [Login Verification with Decorator](Decorators/Verify-log-in)
 
 ### Decorators and memoization
 1. Subarray Optimization Problem
