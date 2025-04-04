@@ -16,7 +16,7 @@ This repository is designed for those looking to improve their knowledge of adva
 3. [Name Transformation and Filtering Problem](Lambda-Functions/Name-transformation-and-filtering)
 
 ### Decorators
-1. Execution Time Logger
+1. [Execution Time Logger](Decorators/Logger)
 2. Access Control Decorator
 3. Login Verification with Decorator
 
