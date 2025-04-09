@@ -21,7 +21,7 @@ This repository is designed for those looking to improve their knowledge of adva
 3. [Login Verification with Decorator](Decorators/Verify-Log-In)
 
 ### Decorators and memoization
-1. Subarray Optimization Problem
+1. [Subarray Optimization Problem](Memoization-and-decorators/subarray-optimization)
 2. Memoization Exercise in Shipping Costs
 3. Memoization Exercise in Text Analysis
 
