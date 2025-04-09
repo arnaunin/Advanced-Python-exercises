@@ -22,7 +22,7 @@ This repository is designed for those looking to improve their knowledge of adva
 
 ### Decorators and memoization
 1. [Subarray Optimization Problem](Memoization-and-decorators/subarray-optimization)
-2. Memoization Exercise in Shipping Costs
+2. [Memoization Exercise in Shipping Costs](Memoization-and-decorators/shipping-costs)
 3. Memoization Exercise in Text Analysis
 
 ## Contributing
